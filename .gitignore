@@ -1,0 +1,13 @@
+.venv/
+src/.env
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.log
+*.c
+.vscode/
+.idea/
+*.swp
+*.bak
+
